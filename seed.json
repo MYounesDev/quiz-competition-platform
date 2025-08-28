@@ -1,0 +1,671 @@
+[
+  {
+    "_id": "cultEasy01",
+    "title": "Easy Culture Competition",
+    "description": "A fun and easy quiz on general culture topics.",
+    "questions": [
+      {
+        "questionText": "What is the capital city of Australia? (ما هي عاصمة أستراليا؟)",
+        "options": [
+          "Sydney (سيدني)",
+          "Melbourne (ميلبورن)",
+          "Canberra (كانبيرا)",
+          "Brisbane (بريسبان)"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "questionText": "Who wrote the novel 'War and Peace'? (من كتب رواية 'الحرب والسلام'؟)",
+        "options": [
+          "Leo Tolstoy (ليو تولستوي)",
+          "Fyodor Dostoevsky (فيودور دوستويفسكي)",
+          "Jane Austen (جين أوستن)",
+          "Charles Dickens (تشارلز ديكنز)"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "questionText": "What color is vermilion a shade of? (ما هو اللون الذي يُعد فيرميليون درجة منه؟)",
+        "options": [
+          "Blue (أزرق)",
+          "Green (أخضر)",
+          "Red (أحمر)",
+          "Yellow (أصفر)"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "questionText": "How many rings are on the Olympic flag? (كم عدد الحلقات في علم الأولمبياد؟)",
+        "options": [
+          "Four (أربعة)",
+          "Five (خمسة)",
+          "Six (ستة)",
+          "Seven (سبعة)"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "questionText": "What is the largest ocean on Earth? (ما هو أكبر محيط على الأرض؟)",
+        "options": [
+          "Atlantic (الأطلسي)",
+          "Indian (الهندي)",
+          "Pacific (الهادئ)",
+          "Arctic (القطبي الشمالي)"
+        ],
+        "correctIndex": 2
+      }
+    ],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1756608000000"
+      }
+    }
+  },
+  {
+    "_id": "cultMed02",
+    "title": "Medium Culture Competition",
+    "description": "A moderately challenging quiz on general culture topics.",
+    "questions": [
+      {
+        "questionText": "What is the average lifespan of a ferret? (ما هو متوسط عمر الفريت؟)",
+        "options": [
+          "5-7 years (5-7 سنوات)",
+          "8-10 years (8-10 سنوات)",
+          "12-15 years (12-15 سنة)",
+          "20 years (20 سنة)"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "questionText": "Who wrote 'Jane Eyre'? (من كتب 'جين إير'؟)",
+        "options": [
+          "Charlotte Brontë (شارلوت برونتي)",
+          "Emily Brontë (إميلي برونتي)",
+          "Jane Austen (جين أوستن)",
+          "Mary Shelley (ماري شيلي)"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "questionText": "How many valves does the heart have? (كم عدد الصمامات في القلب؟)",
+        "options": [
+          "Two (اثنان)",
+          "Three (ثلاثة)",
+          "Four (أربعة)",
+          "Five (خمسة)"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "questionText": "What part of the brain is associated with emotion and memory? (ما هو الجزء من الدماغ المرتبط بالعواطف والذاكرة؟)",
+        "options": [
+          "Cerebellum (المخيخ)",
+          "Hippocampus (الحصين)",
+          "Frontal lobe (الفص الجبهي)",
+          "Occipital lobe (الفص القذالي)"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "questionText": "What is the capital city of Egypt? (ما هي عاصمة مصر؟)",
+        "options": [
+          "Alexandria (الإسكندرية)",
+          "Cairo (القاهرة)",
+          "Giza (الجيزة)",
+          "Luxor (الأقصر)"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1756608100000"
+      }
+    }
+  },
+  {
+    "_id": "islamHard04",
+    "title": "Hard Islam Competition",
+    "description": "Challenging questions on Islamic teachings and history.",
+    "questions": [
+      {
+        "questionText": "Who was the Slave of Umaiyyah ibn Khalaf who was tortured for his Islam? (من كان عبد أمية بن خلف الذي تعرض للتعذيب بسبب إسلامه؟)",
+        "options": [
+          "Yasir (ياسر)",
+          "Bilal (بلال)",
+          "Ammar (عمار)",
+          "Khabbab (خباب)"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "questionText": "What is the virtue of reciting Ayatul Kursi before sleeping? (ما هي فضيلة قراءة آية الكرسي قبل النوم؟)",
+        "options": [
+          "Protection from Shaytan (الحماية من الشيطان)",
+          "Increased reward (زيادة الأجر)",
+          "Better dreams (أحلام أفضل)",
+          "Longer life (عمر أطول)"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "questionText": "In which year were the vowels inserted in the Qur'an? (في أي عام أُدرجت العلامات الصوتية في القرآن؟)",
+        "options": [
+          "23 Hijri (٢٣ هجري)",
+          "43 Hijri (٤٣ هجري)",
+          "63 Hijri (٦٣ هجري)",
+          "83 Hijri (٨٣ هجري)"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "questionText": "Who is the only companion mentioned by name in the Quran? (من هو الصحابي الوحيد المذكور بالاسم في القرآن؟)",
+        "options": [
+          "Abu Bakr (أبو بكر)",
+          "Umar (عمر)",
+          "Zaid ibn Harithah (زيد بن حارثة)",
+          "Ali (علي)"
+        ],
+        "correctIndex": 2
+      }
+    ],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1756608300000"
+      }
+    }
+  },
+  {
+    "_id": "islamMed05",
+    "title": "Medium Islam Competition",
+    "description": "Moderately difficult questions on Islamic principles.",
+    "questions": [
+      {
+        "questionText": "What does 'Islam' mean? (ماذا يعني 'الإسلام'؟)",
+        "options": [
+          "Peace (السلام)",
+          "Submission (الخضوع)",
+          "Prayer (الصلاة)",
+          "Fasting (الصيام)"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "questionText": "How many pillars of Islam are there? (كم عدد أركان الإسلام؟)",
+        "options": [
+          "Four (أربعة)",
+          "Five (خمسة)",
+          "Six (ستة)"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "questionText": "What is the first pillar of Islam? (ما هو الركن الأول من أركان الإسلام؟)",
+        "options": [
+          "Salah (الصلاة)",
+          "Shahada (الشهادة)",
+          "Zakat (الزكاة)",
+          "Sawm (الصوم)"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1756608400000"
+      }
+    }
+  },
+  {
+    "_id": "quranHard06",
+    "title": "Hard Quran Competition",
+    "description": "Advanced questions on the Holy Quran.",
+    "questions": [
+      {
+        "questionText": "Which Surah is regarded as the Heart of the Quran? (أي سورة تعتبر قلب القرآن؟)",
+        "options": [
+          "Surah Al-Fatihah (سورة الفاتحة)",
+          "Surah Al-Baqarah (سورة البقرة)",
+          "Surah Yaseen (سورة يس)",
+          "Surah Al-Ikhlas (سورة الإخلاص)"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "questionText": "On which night was the Qur'an first revealed? (في أي ليلة أُنزل القرآن أول مرة؟)",
+        "options": [
+          "Laylat al-Qadr (ليلة القدر)",
+          "Laylat al-Mi'raj (ليلة المعراج)",
+          "Laylat al-Bara'ah (ليلة البراءة)"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "questionText": "Who is the most mentioned prophet in the Quran? (من هو النبي الأكثر ذكراً في القرآن؟)",
+        "options": [
+          "Muhammad (محمد)",
+          "Isa (عيسى)",
+          "Musa (موسى)",
+          "Ibrahim (إبراهيم)"
+        ],
+        "correctIndex": 2
+      }
+    ],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1756608500000"
+      }
+    }
+  },
+  {
+    "_id": "quranMed07",
+    "title": "Medium Quran Competition",
+    "description": "Intermediate questions on the Holy Quran.",
+    "questions": [
+      {
+        "questionText": "What is the meaning of the word 'Qur'an'? (ماذا يعني كلمة 'قرآن'؟)",
+        "options": [
+          "Recitation (التلاوة)",
+          "Book (الكتاب)",
+          "Guidance (الهداية)"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "questionText": "Where was the Qur'an revealed first? (أين أُنزل القرآن أول مرة؟)",
+        "options": [
+          "Cave Hira (غار حراء)",
+          "Medina (المدينة)",
+          "Jerusalem (القدس)"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "questionText": "What is the longest Surah in the Quran? (ما هي أطول سورة في القرآن؟)",
+        "options": [
+          "Al-Baqarah (البقرة)",
+          "Al-Imran (آل عمران)",
+          "An-Nisa (النساء)"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1756608600000"
+      }
+    }
+  },
+  {
+    "_id": "sciEasy08",
+    "title": "Easy Science Competition",
+    "description": "Basic science questions for kids.",
+    "questions": [
+      {
+        "questionText": "What gas do animals need to breathe to survive? (ما هو الغاز الذي يحتاجه الحيوانات للتنفس للبقاء؟)",
+        "options": [
+          "Carbon Dioxide (ثاني أكسيد الكربون)",
+          "Oxygen (الأكسجين)",
+          "Nitrogen (النيتروجين)"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "questionText": "How much of the Earth is covered in water? (كم نسبة الأرض المغطاة بالماء؟)",
+        "options": [
+          "50% (٥٠٪)",
+          "71% (٧١٪)",
+          "90% (٩٠٪)"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "questionText": "What is the closest planet to the Sun? (ما هو الكوكب الأقرب إلى الشمس؟)",
+        "options": [
+          "Earth (الأرض)",
+          "Venus (الزهرة)",
+          "Mercury (عطارد)",
+          "Mars (المريخ)"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "questionText": "What do plants need for photosynthesis? (ماذا تحتاج النباتات لعملية التمثيل الضوئي؟)",
+        "options": [
+          "Sunlight (ضوء الشمس)",
+          "Moonlight (ضوء القمر)",
+          "Electricity (الكهرباء)"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "questionText": "How many legs does a spider have? (كم عدد أرجل العنكبوت؟)",
+        "options": [
+          "6 (٦)",
+          "8 (٨)",
+          "10 (١٠)"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1756608700000"
+      }
+    }
+  },
+  {
+    "_id": "sciMed09",
+    "title": "Medium Science Competition",
+    "description": "Moderately challenging science questions.",
+    "questions": [
+      {
+        "questionText": "What is the longest type of cell in the body? (ما هو أطول نوع من الخلايا في الجسم؟)",
+        "options": [
+          "Red blood cell (خلية الدم الحمراء)",
+          "Nerve cell (خلية عصبية)",
+          "Muscle cell (خلية عضلية)"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "questionText": "What is the pH level of pure water? (ما هو مستوى الـ pH للماء النقي؟)",
+        "options": [
+          "5 (٥)",
+          "7 (٧)",
+          "9 (٩)"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "questionText": "What gas is produced when acids react with metals? (ما هو الغاز الذي ينتج عند تفاعل الأحماض مع المعادن؟)",
+        "options": [
+          "Oxygen (الأكسجين)",
+          "Hydrogen (الهيدروجين)",
+          "Carbon Dioxide (ثاني أكسيد الكربون)"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "questionText": "What is the atomic number of carbon? (ما هو الرقم الذري للكربون؟)",
+        "options": [
+          "6 (٦)",
+          "8 (٨)",
+          "12 (١٢)"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "questionText": "What force keeps planets in orbit around the sun? (ما هي القوة التي تحافظ على الكواكب في مدارها حول الشمس؟)",
+        "options": [
+          "Magnetism (المغناطيسية)",
+          "Gravity (الجاذبية)",
+          "Friction (الاحتكاك)"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1756608800000"
+      }
+    }
+  },
+  {
+    "_id": "islamHistMed10",
+    "title": "Medium Islamic History Competition",
+    "description": "Intermediate questions on Islamic history.",
+    "questions": [
+      {
+        "questionText": "Where was the Prophet Mohammed (SWL) born? (أين ولد النبي محمد (صلى الله عليه وسلم)؟)",
+        "options": [
+          "Medina (المدينة)",
+          "Makkah (مكة)",
+          "Jerusalem (القدس)"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "questionText": "In which country did the Muslims first migrate? (في أي بلد هاجر المسلمون أولاً؟)",
+        "options": [
+          "Egypt (مصر)",
+          "Abyssinia (الحبشة)",
+          "Medina (المدينة)",
+          "Syria (سوريا)"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "questionText": "How old was the Prophet SAW when Islam was revealed to him? (كم كان عمر النبي صلى الله عليه وسلم عندما أُوحي إليه بالإسلام؟)",
+        "options": [
+          "30 (٣٠)",
+          "40 (٤٠)",
+          "50 (٥٠)"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "questionText": "Who was the first caliph? (من كان الخليفة الأول؟)",
+        "options": [
+          "Umar (عمر)",
+          "Abu Bakr (أبو بكر)",
+          "Uthman (عثمان)"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1756608900000"
+      }
+    }
+  },
+  {
+    "_id": "islamHistHard11",
+    "title": "Hard Islamic History Competition",
+    "description": "Advanced questions on Islamic history.",
+    "questions": [
+      {
+        "questionText": "When was the Prophet Muhammad (p.b.u.h.) born? (متى ولد النبي محمد (صلى الله عليه وسلم)؟)",
+        "options": [
+          "570 CE (٥٧٠ م)",
+          "610 CE (٦١٠ م)",
+          "632 CE (٦٣٢ م)"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "questionText": "What were the first four major caliphs collectively called? (ماذا يُسمى الخلفاء الأربعة الأوائل الرئيسيون مجتمعين؟)",
+        "options": [
+          "Rashidun (الراشدون)",
+          "Umayyads (الأمويون)",
+          "Abbasids (العباسيون)"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "questionText": "Who was the father of Prophet Yusuf? (من كان والد النبي يوسف؟)",
+        "options": [
+          "Ibrahim (إبراهيم)",
+          "Yaqub (يعقوب)",
+          "Ismail (إسماعيل)"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "questionText": "In what year did the Hijra occur? (في أي عام حدثت الهجرة؟)",
+        "options": [
+          "610 CE (٦١٠ م)",
+          "622 CE (٦٢٢ م)",
+          "630 CE (٦٣٠ م)"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "questionText": "Which battle was a turning point in Islamic history? (أي معركة كانت نقطة تحول في التاريخ الإسلامي؟)",
+        "options": [
+          "Battle of Uhud (معركة أحد)",
+          "Battle of Badr (معركة بدر)",
+          "Battle of Khandaq (معركة الخندق)"
+        ],
+        "correctIndex": 1
+      }
+    ],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1756609000000"
+      }
+    }
+  },
+  {
+    "_id": "mixed12",
+    "title": "Mixed Competition",
+    "description": "A mix of questions from culture, math, Islam, Quran, science, and Islamic history.",
+    "questions": [
+      {
+        "questionText": "What is 7 + 8? (ما هو 7 + 8؟)",
+        "options": [
+          "14 (١٤)",
+          "15 (١٥)",
+          "16 (١٦)"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "questionText": "What is the largest planet in our solar system? (ما هو أكبر كوكب في نظامنا الشمسي؟)",
+        "options": [
+          "Earth (الأرض)",
+          "Jupiter (المشتري)",
+          "Saturn (زحل)",
+          "Mars (المريخ)"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "questionText": "In which Surah is Ayatul Kursi found? (في أي سورة توجد آية الكرسي؟)",
+        "options": [
+          "Al-Fatihah (الفاتحة)",
+          "Al-Baqarah (البقرة)",
+          "Al-Ikhlas (الإخلاص)"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "questionText": "What is the capital of Japan? (ما هي عاصمة اليابان؟)",
+        "options": [
+          "Seoul (سيئول)",
+          "Tokyo (طوكيو)",
+          "Beijing (بكين)",
+          "Bangkok (بانكوك)"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "questionText": "When did the Battle of Badr occur? (متى وقعت معركة بدر؟)",
+        "options": [
+          "2 AH (٢ هـ)",
+          "3 AH (٣ هـ)",
+          "4 AH (٤ هـ)"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1756609100000"
+      }
+    }
+  },
+  {
+    "_id": "countriesTrends13",
+    "title": "Countries and Trends Competition",
+    "description": "Questions about countries and interesting current trends.",
+    "questions": [
+      {
+        "questionText": "What is the largest country in the world by area? (ما هي أكبر دولة في العالم من حيث المساحة؟)",
+        "options": [
+          "China (الصين)",
+          "Russia (روسيا)",
+          "United States (الولايات المتحدة)",
+          "Canada (كندا)"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "questionText": "What is the most populous country in the world? (ما هي الدولة الأكثر سكاناً في العالم؟)",
+        "options": [
+          "China (الصين)",
+          "India (الهند)",
+          "United States (الولايات المتحدة)",
+          "Indonesia (إندونيسيا)"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "questionText": "Which of the following countries is not in Asia? (أي من الدول التالية ليست في آسيا؟)",
+        "options": [
+          "Japan (اليابان)",
+          "India (الهند)",
+          "Brazil (البرازيل)",
+          "China (الصين)"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "questionText": "How many countries are there in Africa? (كم عدد الدول في أفريقيا؟)",
+        "options": [
+          "50 (٥٠)",
+          "54 (٥٤)",
+          "60 (٦٠)",
+          "48 (٤٨)"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "questionText": "Where will the 2026 Winter Olympics be held? (أين ستقام أولمبياد الشتاء 2026؟)",
+        "options": [
+          "Paris (باريس)",
+          "Milan-Cortina (ميلانو-كورتينا)",
+          "Los Angeles (لوس أنجلوس)",
+          "Beijing (بكين)"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "questionText": "Who acquired Twitter in 2022? (من اشترى تويتر في عام 2022؟)",
+        "options": [
+          "Mark Zuckerberg (مارك زوكربيرغ)",
+          "Elon Musk (إيلون ماسك)",
+          "Jeff Bezos (جيف بيزوس)",
+          "Bill Gates (بيل غيتس)"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "questionText": "Who was the first Muslim astronaut in space? (من كان أول رائد فضاء مسلم في الفضاء؟)",
+        "options": [
+          "Hazza Al Mansouri (هزاع المنصوري)",
+          "Sultan bin Salman Al Saud (سلطان بن سلمان آل سعود)",
+          "Anousheh Ansari (أنوشه أنصاري)",
+          "Salizhan Sharipov (ساليجان شاريبوف)"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "questionText": "What can AI chatbots not do yet? (ما الذي لا تستطيع روبوتات الدردشة الذكية فعله بعد؟)",
+        "options": [
+          "Solve math problems (حل المسائل الرياضية)",
+          "Generate images (إنشاء الصور)",
+          "Experience real emotions (الشعور بالعواطف الحقيقية)",
+          "Translate languages (ترجمة اللغات)"
+        ],
+        "correctIndex": 2
+      }
+    ],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1756609200000"
+      }
+    }
+  }
+]
